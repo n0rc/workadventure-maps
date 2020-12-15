@@ -4,6 +4,8 @@
 
 Small snowy map with a meeting area. Tilesets are taken from [TMW2 client data](https://gitlab.com/TMW2/clientdata).
 
+![Screenshot](screenshots/snow.jpg)
+
 #### Credits:
 
 | Tileset                   | Authors/Co-Authors/Contributors |
