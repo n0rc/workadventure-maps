@@ -10,6 +10,7 @@ Small snowy map with a meeting area. Tilesets are taken from [TMW2 client data](
 
 | Tileset                   | Authors/Co-Authors/Contributors |
 | ------------------------- | ------------------------------- |
+| tilesets/christmas2.png   | ?, TMW.org                      |
 | tilesets/snow.png         | ?, TMW-BR, LoF                  |
 | tilesets/snow2.png        | ?, bagzie, gumi, wushin         |
 | tilesets/snow_village.png | ?, bagzie, gumi                 |
