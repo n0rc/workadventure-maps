@@ -143,9 +143,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/julhee.github.io\/workadventure-map-starter-kit\/cabin.json"
+                 "value":"..\/..\/julhee.github.io\/workadventure-map-starter-kit\/cabin.json"
                 }],
          "type":"tilelayer",
          "visible":true,
